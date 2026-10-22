@@ -114,7 +114,7 @@ An AI project exploring resume analysis with language models, embeddings, and se
 ## 🤝 Connect
 
 - GitHub: [@mrsinghmzp](https://github.com/mrsinghmzp)
-- LinkedIn: **Add your LinkedIn URL**
+- LinkedIn: [@singhmzp](https://www.linkedin.com/in/singhmzp/)
 - Portfolio: **Add your live portfolio URL**
 
 <p align="center"><i>Learn continuously. Build thoughtfully. Improve with every commit.</i></p>
